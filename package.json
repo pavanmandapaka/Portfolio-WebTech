@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pavanmandapaka.github.io/portfolio",
+  "homepage": "https://pavanmandapaka.github.io/Portfolio-WebTech/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/pavanmandapaka/Portfolio-WebTech.git"
   },
   "dependencies": {
     "framer-motion": "^12.38.0",
