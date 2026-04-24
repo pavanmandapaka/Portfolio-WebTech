@@ -10,7 +10,7 @@ export const CONFIG = {
     github: 'https://github.com/pavanmandapaka',
     linkedin: 'https://www.linkedin.com/in/pavan-mandapaka/',
     email: 'pavansaimandapaka@gmail.com',
-    collegeEmail: '122201018@mahindrauniversity.edu.in',
+    collegeEmail: 'se23ucse107@mahindrauniversity.edu.in',
   },
 
   // Contact Information
